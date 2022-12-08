@@ -1,4 +1,4 @@
 # dependencies
-/node_modules
-/.pnp
-.pnp.js
+node_modules
+# Keep environment variables out of version control
+.env
